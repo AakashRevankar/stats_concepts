@@ -42,7 +42,7 @@ The results are clearly explained at the end of Jupyter Notebook. Correspondingl
 ---
 ## Credits
 
-These notebooks are created for anyone to wish to learn about statistics the way I learnt. Also, I would like to credits to
+These notebooks are created for anyone  who wishes to learn about statistics the way I learnt. Also, I would like to give credits to
 
 * `Probability & Statistics for Machine Learning & Data Science` course by deeplearning.ai
 * `DataDaft` youtube channel
